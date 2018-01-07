@@ -1,0 +1,10 @@
+/home/ctrlnull/repos/CrudAngular2Cars/bin/Debug/netcoreapp2.0/CrudAngular2Cars.deps.json
+/home/ctrlnull/repos/CrudAngular2Cars/bin/Debug/netcoreapp2.0/CrudAngular2Cars.runtimeconfig.json
+/home/ctrlnull/repos/CrudAngular2Cars/bin/Debug/netcoreapp2.0/CrudAngular2Cars.runtimeconfig.dev.json
+/home/ctrlnull/repos/CrudAngular2Cars/bin/Debug/netcoreapp2.0/CrudAngular2Cars.dll
+/home/ctrlnull/repos/CrudAngular2Cars/bin/Debug/netcoreapp2.0/CrudAngular2Cars.pdb
+/home/ctrlnull/repos/CrudAngular2Cars/obj/Debug/netcoreapp2.0/CrudAngular2Cars.csproj.CoreCompileInputs.cache
+/home/ctrlnull/repos/CrudAngular2Cars/obj/Debug/netcoreapp2.0/CrudAngular2Cars.AssemblyInfoInputs.cache
+/home/ctrlnull/repos/CrudAngular2Cars/obj/Debug/netcoreapp2.0/CrudAngular2Cars.AssemblyInfo.cs
+/home/ctrlnull/repos/CrudAngular2Cars/obj/Debug/netcoreapp2.0/CrudAngular2Cars.dll
+/home/ctrlnull/repos/CrudAngular2Cars/obj/Debug/netcoreapp2.0/CrudAngular2Cars.pdb
